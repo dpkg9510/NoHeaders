@@ -1,0 +1,9 @@
+Package: com.dpkg.noheaders
+Name: NoHeaders
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove headers from widgets and banners. 
+Maintainer: dpkg_
+Author: dpkg_
+Section: Tweaks
